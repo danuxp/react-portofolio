@@ -8,7 +8,7 @@ Web Portofolio yang dirancang menggunakan react js, tailwind css dan beberapa li
 
 # Cara menggunakannya
 - Pastikan kamu sudah menginstall versi terbaru
-- git clone
+- git clone https://github.com/danuxp/react-portofolio.git
 - cd foldernya
 - pnpm install
 - pnpm run dev
