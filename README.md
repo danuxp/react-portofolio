@@ -1,8 +1,14 @@
-# React + Vite
+# React Protofolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web Portofolio yang dirancang menggunakan react js, tailwind css dan beberapa library pendukung seperti :
+- Framer Motion (https://www.framer.com)
+- Flowbite (https://flowbite-react.com)
+- React Icon (https://react-icons.github.io/react-icons/)
+- React Toasify (https://fkhadra.github.io/react-toastify/introduction)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Cara menggunakannya
+- Pastikan kamu sudah menginstall versi terbaru
+- git clone
+- cd foldernya
+- pnpm install
+- pnpm run dev
