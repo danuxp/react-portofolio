@@ -6,19 +6,19 @@ const Home = () => {
   const sosmed = [
     {
       icon: <FaInstagram className="text-pink-500" />,
-      link: "",
+      link: "https://www.instagram.com/danuxpamungkas/",
     },
     {
       icon: <FaGithub className="text-slate-600 dark:text-slate-100" />,
-      link: "",
+      link: "https://github.com/danuxp",
     },
     {
       icon: <FaFacebook className="text-blue-800" />,
-      link: "",
+      link: "https://www.facebook.com/danu.pamungkas.77",
     },
     {
       icon: <FaLinkedin className="text-blue-600" />,
-      link: "",
+      link: "https://www.linkedin.com/in/danu-pamungkas-299b55119/",
     },
   ];
 
@@ -58,7 +58,7 @@ const Home = () => {
               key={key}
               className="w-10 h-10 bg-white dark:bg-slate-900 rounded-lg flex justify-center items-center "
             >
-              <a href="#" className="text-2xl">
+              <a href={item.link} className="text-2xl">
                 {item.icon}
               </a>
             </div>
