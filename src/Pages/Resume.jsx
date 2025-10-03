@@ -24,7 +24,7 @@ const Resume = () => {
     },
     {
       tahun: "2018 - 2022",
-      sekolah: "Universita Muhammadiyah Sidoarjo",
+      sekolah: "Universitas Muhammadiyah Sidoarjo",
       color: "border-b-red-400",
       img: "./img/univ.png",
     },
